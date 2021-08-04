@@ -24,9 +24,16 @@ function ChangeCountScores() {
 
 }
 
+function ChangePaymentCard() {
+    const FakeCard = '4000 0000 0000 0000'
+    let CardElem = document.getElementsByClassName('Text__StyledTextSpan-sc-9bqqn7-0 egVgzJ')[1];
+    CardElem.innerHTML = FakeCard;
+}
+
 window.addEventListener("click", function() { 
     ChangePhone()
     ChangeVisibilityBalance()
     ChangeCountScores()
+    ChangePaymentCard()
 
 });
