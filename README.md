@@ -1,6 +1,6 @@
-<p>Расширение для подмены баланса Yoomoney и тд.</p>
+<p>An extension for replacing the balance of Yoomoney and so on.</p>
 <img src='yoomoney-logo.png' width='30%' height='50%'></img>
-<p>Подмена баланса при клике на страницу.</p>
-<p>Подмена номера телефона при клике на страницу.</p>
-<p>Подмена баллов при клике на страницу.</p>
+<p>Substitution of the balance when clicking on the page.</p>
+<p>Substitution of the phone number when clicking on the page.</p>
+<p>Substitution of points when clicking on the page.</p>
 <h2><a href='Translate/READEME.md'>Translate RU</a></h2>
