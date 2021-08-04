@@ -1,6 +1,3 @@
-const CHANCE_SCORES = true;
-
-
 function ChangePhone() {
     const FakePhone = '+7900 0000000'
     let NumberElem = document.getElementsByClassName('Text__StyledTextSpan-sc-9bqqn7-0 ibBqHn qa-favorite-example-phone')[0];
