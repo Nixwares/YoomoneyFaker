@@ -1,0 +1,15 @@
+{
+
+    "manifest_version": 2,
+    "name": "YoomoneyFaker",
+    "version": "1.0",
+  
+    "description": "YoomoneyFaker",
+  
+    "content_scripts": [
+      {
+        "matches": ["https://yoomoney.ru/main"],
+        "js": ["borderify.js"]
+      }
+    ]
+  }
