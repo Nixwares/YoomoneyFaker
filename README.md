@@ -3,4 +3,5 @@
 <p>Substitution of the balance when clicking on the page.</p>
 <p>Substitution of the phone number when clicking on the page.</p>
 <p>Substitution of points when clicking on the page.</p>
+<p>Substitution of the card when clicking on the page.</p>
 <h2><a href='https://github.com/Nixwares/YoomoneyFaker/tree/main/Translate'>Translate RU</a></h2>
