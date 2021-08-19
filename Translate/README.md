@@ -1,3 +1,4 @@
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/custom?color=%237868E6&label=Yoomoney%20Faker&style=plastic">
 <p>Расширение для подмены баланса Yoomoney и тд.</p>
 <img src='../icons/yoomoney-logo.png' width='30%' height='50%'/>
 <p>Подмена баланса при клике на страницу.</p>
