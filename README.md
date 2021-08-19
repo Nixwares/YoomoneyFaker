@@ -1,3 +1,4 @@
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/custom?color=%237868E6&label=Yoomoney%20Faker&style=plastic">
 <p>An extension for replacing the balance of Yoomoney and so on.</p>
 <img src='./icons/yoomoney-logo.png' width='30%' height='50%'>
 <p>Substitution of the balance when clicking on the page.</p>
