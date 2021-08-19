@@ -4,6 +4,6 @@
 <p>Substitution of the phone number when clicking on the page.</p>
 <p>Substitution of points when clicking on the page.</p>
 <p>Substitution of the card when clicking on the page.</p>
-<h2>Browser support</h2> <img src="" width="64px" height="64px"/>
+<h2>Browser support</h2> <img src="./icons/firefox-logo.png" width="64px" height="64px"/>
 <p><b>You can always change the event of data substitution.</b></p>
 <h2><a href='https://github.com/Nixwares/YoomoneyFaker/tree/main/Translate'>Translate RU</a></h2>
